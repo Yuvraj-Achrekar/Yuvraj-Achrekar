@@ -6,7 +6,7 @@
 - 🤔 Tackle real-world challenges with innovative solutions.
 - 🌟 If you're passionate about technology or would like to collaborate on a project, I'd love to connect! Let's learn and grow together on this incredible journey as we shape the digital landscape with innovation and creativity.
 
-# Skills
+# Expertise
 <a href="https://react.dev/"><img src="https://www.datocms-assets.com/45470/1631026680-logo-react-native.png?fm=webp](https://en.wikipedia.org/wiki/File:React-icon.svg)https://en.wikipedia.org/wiki/File:React-icon.svg](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height=50/></a>
 <a href="https://nodejs.org/it/docs"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1920px-Node.js_logo.svg.png" height=50/></a>
 <a href="https://expressjs.com/"><img src="https://geekflare.com/wp-content/uploads/2023/01/expressjs-680x220.png" height=50/></a>
