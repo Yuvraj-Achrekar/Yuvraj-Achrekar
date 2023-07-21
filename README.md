@@ -9,9 +9,10 @@
 # Skills
 <a href="https://react.dev/"><img src="https://www.datocms-assets.com/45470/1631026680-logo-react-native.png?fm=webp](https://en.wikipedia.org/wiki/File:React-icon.svg)https://en.wikipedia.org/wiki/File:React-icon.svg](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height=50/></a>
 <a href="https://nodejs.org/it/docs"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1920px-Node.js_logo.svg.png" height=50/></a>
-<a href="https://expressjs.com/"><img src="https://geekflare.com/wp-content/uploads/2023/01/expressjs-680x220.png" height=100/></a>
+<a href="https://expressjs.com/"><img src="https://geekflare.com/wp-content/uploads/2023/01/expressjs-680x220.png" height=50/></a>
 <a href="https://www.mongodb.com/docs/"><img src="https://findlogovector.com/wp-content/uploads/2022/04/mongodb-logo-vector-2022.png" height=50/></a>
-<a href="https://expressjs.com/"><img src="https://i.pinimg.com/564x/52/2e/6b/522e6bc1a11d1726a35f81cbd979395f.jpg" height=50/></a>
-<a href="https://expressjs.com/"><img src="https://images.squarespace-cdn.com/content/v1/5489b1f6e4b0c7fbb9e64fcb/1624052013060-Q95Y1VII33SLD2R766T5/ecmas6_2.png?format=1500w" height=50/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png" height=50/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo.png" height=50/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://images.squarespace-cdn.com/content/v1/5489b1f6e4b0c7fbb9e64fcb/1624052013060-Q95Y1VII33SLD2R766T5/ecmas6_2.png?format=1500w" height=50/></a>
 
 
