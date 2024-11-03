@@ -14,5 +14,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png" height=50/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo.png" height=50/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://images.squarespace-cdn.com/content/v1/5489b1f6e4b0c7fbb9e64fcb/1624052013060-Q95Y1VII33SLD2R766T5/ecmas6_2.png?format=1500w" height=50/></a>
+<a href="https://react.dev/"><img src="https://datapro.in/uploads/89eb94efd5a4418bcbd9db16f8e1977f.png" height=50/></a>
+<a href="https://nextjs.org/"><img src="https://images.ctfassets.net/23aumh6u8s0i/6pjUKboBuFLvCKkE3esaFA/5f2101d6d2add5c615db5e98a553fc44/nextjs.jpeg" height=50/></a>
 
 
